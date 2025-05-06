@@ -99,11 +99,11 @@ export default function App() {
   return (
     <View className="flex-1 justify-center items-center bg-sky-300">
       <Text className="text-black text-xl font-bold">
-        Hello, Tailwind with Nativewind!
+        Hello, React Native with Nativewind!
       </Text>
     </View>
   );
 }
 ```
 ## ScreenShot :
-![alt text](image.png)
+![alt text](image-1.png)
